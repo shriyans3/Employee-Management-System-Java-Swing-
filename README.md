@@ -8,6 +8,7 @@ You also add the employees performance based on their work.If any problem arises
 the queries section.  
 
 Username is admin and Password is admin@123
+Ignore all the files ending with .class .
 The flow of the program ->
 Loginpg.java -> Mainpg.java -> EmployeeInformation.java
                             -> AddDept.java
