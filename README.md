@@ -16,6 +16,7 @@ Loginpg.java -> Mainpg.java -> EmployeeInformation.java
                             -> ViewPerformance.java
                             -> YourQueries.java
                             
+Download the Repository and just execute Loginpg.java
 
 ![image](https://user-images.githubusercontent.com/92873522/221795569-84850305-4d18-420d-be8b-b2daca11745e.png)
 ![image](https://user-images.githubusercontent.com/92873522/221795655-d51dbc1c-4ba7-4393-91ec-1e8868207eb4.png)
